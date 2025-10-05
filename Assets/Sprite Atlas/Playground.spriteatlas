@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Playground
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0ec31716a0f5cc14dbd94eec9e1008bf, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 4142636493079865228, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -5290993603095967707, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 5121459188441981007, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 3949839944126608298, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -8137801521744303281, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -6172809803775563062, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 7093185444026196141, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 6622849435906329425, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 6768160169210043789, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 5371280716124865510, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 8425583062088116344, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 4012095853808720989, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -8961081047474449108, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -498370006557507558, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -1333786861567291606, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -3934649836263088680, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -5778052075943919879, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -723834643594907091, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -1321941958664632884, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -2400636643015749234, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 7364325993330674265, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -2045360435892177095, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -1251672672383809737, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -6376346289671285400, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -5457816002790047016, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -2704528461326002784, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 1596881407394762701, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -2894421063552561911, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -8798815273452034782, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -617144294338691951, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 2981912672160548347, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 11562394598369054, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -3583578005941752272, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 5043006491430509545, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -4875748575949375855, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -82629070236773804, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -4742420235202829727, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -8854529702483449108, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -927918360941805565, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -8328660029810767704, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -19441924315731334, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 279786175115372874, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 808150765198327844, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -3469091920432140062, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 6928012069706889251, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 202532905130010827, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: 4233235720661448180, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  - {fileID: -1050506058241593558, guid: 9c5b78ac5956a614699cd690050a877c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dirt_tiles_v1_12
+  - dirt_tiles_v1_13
+  - dirt_tiles_v1_10
+  - dirt_tiles_v1_11
+  - dirt_tiles_v1_16
+  - dirt_tiles_v1_17
+  - dirt_tiles_v1_14
+  - dirt_tiles_v1_15
+  - dirt_tiles_v1_18
+  - dirt_tiles_v1_19
+  - dirt_tiles_v1_38
+  - dirt_tiles_v1_39
+  - dirt_tiles_v1_34
+  - dirt_tiles_v1_35
+  - dirt_tiles_v1_29
+  - dirt_tiles_v1_36
+  - dirt_tiles_v1_28
+  - dirt_tiles_v1_37
+  - dirt_tiles_v1_27
+  - dirt_tiles_v1_30
+  - dirt_tiles_v1_26
+  - dirt_tiles_v1_31
+  - dirt_tiles_v1_25
+  - dirt_tiles_v1_32
+  - dirt_tiles_v1_24
+  - dirt_tiles_v1_33
+  - dirt_tiles_v1_23
+  - dirt_tiles_v1_22
+  - dirt_tiles_v1_21
+  - dirt_tiles_v1_20
+  - dirt_tiles_v1_41
+  - dirt_tiles_v1_40
+  - dirt_tiles_v1_43
+  - dirt_tiles_v1_42
+  - dirt_tiles_v1_45
+  - dirt_tiles_v1_44
+  - dirt_tiles_v1_47
+  - dirt_tiles_v1_46
+  - dirt_tiles_v1_7
+  - dirt_tiles_v1_6
+  - dirt_tiles_v1_5
+  - dirt_tiles_v1_4
+  - dirt_tiles_v1_3
+  - dirt_tiles_v1_2
+  - dirt_tiles_v1_1
+  - dirt_tiles_v1_0
+  - dirt_tiles_v1_9
+  - dirt_tiles_v1_8
+  m_Tag: Playground
+  m_IsVariant: 0
